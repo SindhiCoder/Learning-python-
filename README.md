@@ -1,6 +1,5 @@
 # Learning Python in Sindhi
 1. **Setting Up Environment for Python**
-<br>
 
 -----------------------------------------
 <br>
