@@ -8,5 +8,12 @@
         - Numeric Data types
         - String
         - Boolean
+    - Basic Operation on number and Strings 
+        - Addition
+        - Multiplication 
+        - Subtraction
+        - Divide 
+        - Modules
+
     
 -------------------------------------------
